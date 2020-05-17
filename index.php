@@ -1,5 +1,5 @@
 <?php
 
-	echo "Hello ! hi this is php file ";
+	echo "Hello ! hi this is php file! ";
 
 ?>
